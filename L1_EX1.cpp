@@ -13,8 +13,8 @@ struct Person
 int main()
 {
     Person person1;
-    person1.name = "Ronaldo";
-    person1.citNo = 1985;
+    person1.name = "Sammaul islam Siam";
+    person1.citNo = 1878;
     person1.salary = 2500;
     cout<<"Name: "<< person1.name<<endl;
     cout<<"Citizenship No.: "<< person1.citNo<<endl;
